@@ -1,0 +1,24 @@
+
+…
+java:S1192"hDefine a constant instead of duplicating this literal "Ğ¡Ğ¿Ğ¸ÑĞ¾Ğº Ğ°Ğ±Ñ–Ñ‚ÑƒÑ€Ñ–Ñ”Ğ½Ñ‚Ñ–Ğ²: " 3 times.(ÔîÂğ8ìÇ¥û°1
+™
+java:S1192+"|Define a constant instead of duplicating this literal "ĞĞµĞ²Ñ–Ñ€Ğ½Ğ¸Ğ¹ Ğ²Ğ¸Ğ±Ñ–Ñ€, ÑĞ¿Ñ€Ğ¾Ğ±ÑƒĞ¹Ñ‚Ğµ Ñ‰Ğµ Ñ€Ğ°Ğ·" 3 times.(ùçê‘8½–Ñü°1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Ó¸h8À„û°1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ò”Ü8Ã¾œû°1
+G	java:S106"+Replace this use of System.out by a logger.(ì–ÚÇ8ŸõÀü°1
+F	java:S106"+Replace this use of System.out by a logger.(ƒƒÈ8ŸõÀü°1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ ‹Ñ8ŸõÀü°1
+L	java:S106"+Replace this use of System.out by a logger.(›Ùïúÿÿÿÿ8ŸõÀü°1
+G	java:S106"+Replace this use of System.out by a logger.(¤óñ²8ŸõÀü°1
+L	java:S106"+Replace this use of System.out by a logger.(Ğ–¦úÿÿÿÿ8ŸõÀü°1
+G	java:S106"+Replace this use of System.out by a logger.(ÔîÂğ8¢õÀü°1
+G	java:S106$"+Replace this use of System.out by a logger.(¢ÖÅÅ8¤õÀü°1
+G	java:S106'"+Replace this use of System.out by a logger.(ÔîÂğ8¤õÀü°1
+G	java:S106+"+Replace this use of System.out by a logger.(ùçê‘8¤õÀü°1
+G	java:S106/"+Replace this use of System.out by a logger.(‡ëƒ³8¥õÀü°1
+G	java:S1062"+Replace this use of System.out by a logger.(ÔîÂğ8¥õÀü°1
+G	java:S1066"+Replace this use of System.out by a logger.(ùçê‘8¥õÀü°1
+G	java:S106<"+Replace this use of System.out by a logger.(ùçê‘8¦õÀü°1
+G	java:S106B"+Replace this use of System.out by a logger.(ÆÀûı8¨õÀü°1
+G	java:S106D"+Replace this use of System.out by a logger.(ÆÀûı8¨õÀü°1
